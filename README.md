@@ -19,12 +19,12 @@ Built as a 5-page interactive Power BI dashboard.
 4. Certification Analysis — LEED vs BREEAM vs GreenMark
 5. Recommendations — data-driven action plan
 
-## 🛠️ Tools Used
+## Tools Used
 - Power BI Desktop
 - DAX measures
 - Python (data preparation & enrichment)
 - Dataset: 40,000 buildings
 
-## 👤 Author
+##  Author
 **Mahsa Mohajeri Meng, MSc, LEED AP (BD+C)**  
 Sustainability Analyst | 2026
